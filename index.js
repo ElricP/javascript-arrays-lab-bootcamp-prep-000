@@ -31,4 +31,4 @@ function prependKitten(name) {
   return newKittens;
 }
 
-function 
+function removeFirstKitten()
